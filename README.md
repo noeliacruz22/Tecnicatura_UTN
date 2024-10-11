@@ -36,6 +36,6 @@ Inicialmente aprendí a trabajar  **VSC**, un editor de código muy amigable, pa
 # Sobre Mi
 
 Ya con una cierta cantidad de añitos 🤓 (no muchos che!), con una pandemia encima, me anime a explorar el mundo de la programacion y me encanto. Tanto que decidí comenzar a formarme, y arranque realizando cursos hasta llegar a la **Tecnicatura** y darle un nuevo rumbo a mi carrera. 💪🏻
-Me siento muy feliz del progreso que voy realizando y espero poder alcanzar la meta, y en algun momento poder trabajar de esto que amo ❤💪🏻.
+Me siento muy feliz del progreso que voy realizando y espero poder alcanzar la meta, y en algun momento poder trabajar de esto que amo ❤🙌🏻.
 
-> **Nota:** De a poco iré cargando y actualizando con los avances (carita feliz) **Muchas gracias**.
+> **Nota:** De a poco iré cargando y actualizando con los avances ☺️ **Muchas gracias**.
