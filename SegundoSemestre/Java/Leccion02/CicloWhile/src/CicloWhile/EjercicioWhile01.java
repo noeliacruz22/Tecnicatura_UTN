@@ -16,9 +16,24 @@ public class EjercicioWhile01 {
             contador++;
         }while(contador <= 7);
         
+        
+        //Uso de las palabras break y continue juntos a las etiquetas
+        
         for( var contando = 0; contando < 7 ; contando++ ){
-            System.out.println("contando = " + contando);       
+            if(contando % 2 == 0){
+                System.out.println("contando = " + contando);
+                break; 
+            }               
         }
+        inicio:
+        for( var contando = 0; contando < 7 ; contando++ ){
+            if(contando % 2 != 0){
+                continue inicio;    //pasa a la siguiente iteracion
+            } 
+            System.out.println("contando = " + contando);
+        }
+       
+        
     } 
     
 }
