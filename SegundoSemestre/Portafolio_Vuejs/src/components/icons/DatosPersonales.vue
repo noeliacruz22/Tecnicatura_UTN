@@ -5,7 +5,7 @@ import github from '/src/assets/github_icon.svg';
 import cv from '/src/assets/cv_resume_icon.svg';
 
 const title = 'Noelia Cruz';
-const descripcion = 'Técnica Universitario en Programación - UTN';
+const descripcion = 'Técnica Universitaria en Programación - UTN';
 const residencia = 'Córdoba, Argentina';
 const presentacion = 'Hola, Bienvenidos a mi portafolio de proyectos. Soy una desarrolladora web con experiencia en el desarrollo de aplicaciones web, móviles y de escritorio.';
 const redesSociales = [
