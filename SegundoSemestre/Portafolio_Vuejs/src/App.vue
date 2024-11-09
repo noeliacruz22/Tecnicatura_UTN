@@ -1,21 +1,27 @@
 <script setup>
 import NavBar from './components/icons/NavBar.vue'; 
+import DatosPersonales from './components/icons/DatosPersonales.vue'; 
+import EducacionComp from './components/icons/EducacionComp.vue';
+import ExperienciaComp from './components/ExperienciaComp.vue';
 </script>
 
 <template>
   <header>
     <!--barra de navegacion-->
     <NavBar />
+    <!--Datos Personales-->
+    <DatosPersonales />
     <main>
+      <!--El estilo CSS de section se encuentra en base.css-->
         <section id="educacion">
           <h2>Educación - Cursos</h2>
           <!--Componente Educación-->
-          <Educacion />
+          <EducacionComp />
         </section>
         <section id="experiencia">
             <h2>Experiencia</h2>
             <!--Componente Experiencia-->
-            <ExperienciaComponente />
+            <ExperienciaComp />
         </section>
         <section id="proyectos">
             <h2>Proyectos</h2>
