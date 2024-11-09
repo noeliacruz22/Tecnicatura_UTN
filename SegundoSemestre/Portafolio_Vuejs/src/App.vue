@@ -3,6 +3,7 @@ import NavBar from './components/icons/NavBar.vue';
 import DatosPersonales from './components/icons/DatosPersonales.vue'; 
 import EducacionComp from './components/icons/EducacionComp.vue';
 import ExperienciaComp from './components/ExperienciaComp.vue';
+import ProyectosComp from './components/ProyectosComp.vue';
 </script>
 
 <template>
@@ -26,7 +27,7 @@ import ExperienciaComp from './components/ExperienciaComp.vue';
         <section id="proyectos">
             <h2>Proyectos</h2>
             <!--Componente Proyectos-->
-            <ProyectosComponente />
+            <ProyectosComp />
         </section>
         <section id="habilidades">
             <!--Componente Habilidades-->
