@@ -14,17 +14,10 @@ En este semestre pude aprender lógica de programacion a través de  **PseInt** 
 También di primeros pasos tanto en la consola de **Git** como en **GitHub**, pudiendo aprender sobre commits, ramas, creacion de carpetas, push, etc. 🖥️
 
 
-## C# .Net
+## Segundo Semestre
 
-Aparte estoy iniciando un curso de C#.Net de la mano de dos grosos como *Hector de Leon* y *Maxiprograma*, por lo que también este proyecto va a tener una carpeta dedicada a los ejercicios y aprendizaje con este lenguaje.
-Al finalizar tendré conocimientos sobre:
 
- - 👉🏻.Net
- - 👉🏻POO
- - 👉🏻SQL
- - 👉🏻Winforms
- - 👉🏻ConexionesDB
- - 👉🏻Capas
+## Tercer Semestre
 
 ## Herramientas utilizadas
 
