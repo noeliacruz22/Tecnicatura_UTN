@@ -2,17 +2,30 @@
 
 En este repositorio van a estar cargados todos los ejercicios de cada semestre y cada materia de la **Tecnicatura Universitaria en Programación**, la cual estoy cursando actualmente. 🤓
 
+## 📘 Primer Semestre – Fundamentos de Programación
 
-## Archivos
+### 🎯 Propósito del semestre
+Este primer tramo de la carrera se enfocó en adquirir las bases sólidas de la programación estructurada y orientada a objetos, explorando tres lenguajes clave (Python, Java y JavaScript) de forma comparativa. A través de ejercicios prácticos, pseudocódigo y control de versiones con Git, se promovió el pensamiento lógico, la resolución de problemas y el trabajo colaborativo.
 
-Los archivos se dividen en  **Semestres**, donde cada uno contiene una carpeta con cada materia con sus respectivos ejercicios clase por clase.
-Además hay unas carpetas con ejercitación extra, realizada a través de diferentes cursos que realizo de manera autodidacta como apoyo a lo que voy aprendiendo en la cursada.
+### 🗂️ Estructura del repositorio
+La carpeta `primerSemestre/` contiene subcarpetas organizadas por lenguaje, cada una con actividades prácticas y ejercicios:
+`primerSemestre/ ├── java/ ├── javascript/ └── python/`
 
-## Primer Semestre
+Cada carpeta incluye implementaciones de algoritmos básicos, estructuras de control, funciones y ejercicios integradores.
 
-En este semestre pude aprender lógica de programacion a través de  **PseInt** culminando con un trabajo grupal. Conocí inicialmente los lenguajes de **Java** y **Python**, y pude reforzar lo ya aprendido en **Javascript**.
-También di primeros pasos tanto en la consola de **Git** como en **GitHub**, pudiendo aprender sobre commits, ramas, creacion de carpetas, push, etc. 🖥️
+### 🛠️ Herramientas y tecnologías utilizadas
+- **Lenguajes:** Python, Java, JavaScript
+- **Entorno de pseudocódigo:** PSeInt
+- **Control de versiones:** Git Bash
+- **Metodologías:** Pseudocódigo, diagramas de flujo, trabajo en equipo
+- **Editor de código:** Visual Studio Code (sugerido)
 
+### 🎮 Proyecto integrador – *Dinamic Devs Games*
+Como cierre del semestre, desarrollamos en equipo un proyecto en pseudocódigo utilizando PSeInt, aplicando lógica, estructuras condicionales y ciclos. El objetivo fue crear un juego interactivo que consolidara los conceptos aprendidos.
+
+📂 Repositorio del proyecto: [Dinamic Devs Games](https://github.com/noeliacruz22/Dinamic_Devs_Games)
+
+---
 
 ## Segundo Semestre
 
