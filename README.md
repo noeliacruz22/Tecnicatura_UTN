@@ -19,7 +19,9 @@ Cada carpeta incluye actividades prácticas, ejercicios, documentación y enlace
 ## 👩‍💻 Rol en los proyectos
 
 A lo largo de la carrera participé como programadora en proyectos grupales, aplicando lógica, estructuras de datos y desarrollo backend. En el último semestre también asumí el rol de planificación estratégica, elaborando briefs y gestionando el PMO del proyecto final.
-|---------|-------------|-------------|
+
+| Proyecto | Descripción |
+|---------|-------------|
 | [PMO](https://docs.google.com/document/d/1RWCtVCC7fWjSTZjFku4V5LwMGat0hyHS/edit?usp=drive_link&ouid=104961533691552549652&rtpof=true&sd=true) | PMO presentado en la materia Legislación, relacionado con el proyecto final del Cuarto Semestre. |
 | [Brief](https://drive.google.com/file/d/1KII5Ywlp4OEgg50WEaXzyYYeEgrA1M_R/view?usp=drive_link) | Brief presentado para la materia Programación IV, relacionado con el proyecto final del Cuarto Semestre. |
 
