@@ -58,6 +58,15 @@ header .center#icono3{
     background: red;
 }
 
+header center{
+    text-align: center;
+    width:42px;
+    line-height:42px;
+    border-radius:100%;
+    background:#ccc;
+    color:white;
+}
+
 nav ul li {
     padding: 10px;
     text-align: center;
